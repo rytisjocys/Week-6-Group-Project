@@ -1,0 +1,94 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="eKvs0mkyIwETWUUso5Nd">
+    <mxGraphModel dx="1413" dy="960" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RxRu7ddj9tEePsGdDr2P-1" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="130" width="130" x="70" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="RxRu7ddj9tEePsGdDr2P-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Patient" vertex="1">
+          <mxGeometry height="30" width="60" x="105" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="RxRu7ddj9tEePsGdDr2P-3" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="130" width="130" x="390" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="RxRu7ddj9tEePsGdDr2P-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Family Health&lt;div&gt;(app)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="425" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="RxRu7ddj9tEePsGdDr2P-5" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="130" width="130" x="710" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="RxRu7ddj9tEePsGdDr2P-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Doctor" vertex="1">
+          <mxGeometry height="30" width="60" x="745" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="RxRu7ddj9tEePsGdDr2P-7" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="130" width="130" x="400" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="RxRu7ddj9tEePsGdDr2P-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Pharmacy" vertex="1">
+          <mxGeometry height="30" width="60" x="435" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="RxRu7ddj9tEePsGdDr2P-9" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;curved=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="220" y="320" as="sourcePoint" />
+            <mxPoint x="380" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RxRu7ddj9tEePsGdDr2P-11" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;curved=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="370" y="360" as="sourcePoint" />
+            <mxPoint x="220" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RxRu7ddj9tEePsGdDr2P-12" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;curved=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="540" y="320" as="sourcePoint" />
+            <mxPoint x="700" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RxRu7ddj9tEePsGdDr2P-13" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;curved=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="690" y="360" as="sourcePoint" />
+            <mxPoint x="540" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RxRu7ddj9tEePsGdDr2P-14" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;curved=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="440" y="430" as="sourcePoint" />
+            <mxPoint x="440" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RxRu7ddj9tEePsGdDr2P-15" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;curved=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="480" y="560" as="sourcePoint" />
+            <mxPoint x="480" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RxRu7ddj9tEePsGdDr2P-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Personal details, symptoms, login/registration info.&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="100" x="240" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="RxRu7ddj9tEePsGdDr2P-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Health summaries, progress reports, reminders, nofications." vertex="1">
+          <mxGeometry height="30" width="100" x="240" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="RxRu7ddj9tEePsGdDr2P-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Appointment requests, patient health records (with permission)." vertex="1">
+          <mxGeometry height="30" width="100" x="570" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="RxRu7ddj9tEePsGdDr2P-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Medical advice, diagnosis, appointment availability." vertex="1">
+          <mxGeometry height="30" width="60" x="590" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="RxRu7ddj9tEePsGdDr2P-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Medication details, reminder requests, priscription details." vertex="1">
+          <mxGeometry height="30" width="60" x="365" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="RxRu7ddj9tEePsGdDr2P-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Medication info, prescription status, dispensing updates." vertex="1">
+          <mxGeometry height="30" width="60" x="495" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="RxRu7ddj9tEePsGdDr2P-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="60" width="385" x="260" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="RxRu7ddj9tEePsGdDr2P-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Family Health App - System Context Diagram" vertex="1">
+          <mxGeometry height="30" width="347.5" x="278.75" y="145" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
